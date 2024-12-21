@@ -1,2 +1,4 @@
 # hello-world
-this is a test 
+Hi my name is Andrae
+Learning to code is like a dream
+
